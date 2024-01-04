@@ -1,0 +1,10 @@
+# Rime table
+# coding: utf-8
+#
+# 请将该文件以 UTF-8 无签名编码保存
+# 存储位置为 ~Rime 用户文件夹/custom_phrase.txt
+#
+# 码表各字段以制表符（Tab）分隔
+# 编码格式：词条+tab+编码+tab+权重 权重决定短语词条在候选项中的排序，权重非必须项
+
+xx@gmail.com	gmail	1
