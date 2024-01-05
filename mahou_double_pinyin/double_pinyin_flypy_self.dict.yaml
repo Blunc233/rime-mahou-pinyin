@@ -1,0 +1,12 @@
+# Rime dict
+# encoding: utf-8
+# 双拼
+---
+name: self_words
+version: "1.0.0"
+sort: by_weight
+...
+秋闱软月云梳翅	qq ww rr yt yy uu ii	1
+松拥黛粉更航安	ss ys dd ff gg hh aj	1
+快莺两望奏夏蛙	kk yk ll wh zz xx wa	1
+撇草追鱼滨鸟眠	pp cc vv yv bb nn mm	1

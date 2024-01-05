@@ -1,0 +1,9 @@
+# Rime dict
+# encoding: utf-8
+# 自定词库
+---
+name: self_words
+version: "1.0.0"
+sort: by_weight
+...
+自建词库	zi jian ci ku	1
